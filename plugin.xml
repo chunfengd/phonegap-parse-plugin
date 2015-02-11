@@ -59,6 +59,7 @@
         </config-file>
         <header-file src="src/ios/CDVParsePlugin.h" />
         <source-file src="src/ios/CDVParsePlugin.m" />
+        <source-file src="src/ios/FBMissingSymbols.m" />
 
         <!--<framework src="AssetsLibrary.framework" />-->
         <!--<framework src="MobileCoreServices.framework" />-->
